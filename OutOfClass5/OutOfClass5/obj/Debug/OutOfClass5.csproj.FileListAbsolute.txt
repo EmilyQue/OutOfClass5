@@ -1,0 +1,11 @@
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\bin\Debug\OutOfClass5.exe.config
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\bin\Debug\OutOfClass5.exe
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\bin\Debug\OutOfClass5.pdb
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\obj\Debug\OutOfClass5.Form1.resources
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\obj\Debug\OutOfClass5.Properties.Resources.resources
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\obj\Debug\OutOfClass5.csproj.GenerateResource.Cache
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\obj\Debug\OutOfClass5.csproj.CoreCompileInputs.cache
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\obj\Debug\OutOfClass5.exe
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\obj\Debug\OutOfClass5.pdb
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\obj\Debug\OutOfClass5.csprojResolveAssemblyReference.cache
+C:\Users\EMILY\Desktop\CST-117\OutOfClass5\OutOfClass5\obj\Debug\OutOfClass5.Form2.resources
